@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="./me.jpg" width="150" style="border-radius: 50%;" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=6000&color=4A90E2&center=true&vCenter=true&width=600&lines=Web+Developer;Passionate+Coder;HTML+%26+CSS+%26+JS;React+%7C+Node.js+%7C+SpringBoot;Always+Learning" alt="Typing Animation">
 </p>
 
@@ -66,16 +62,6 @@
   <span style="display:inline-block; margin:4px;">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   </span>
-</p>
-
----
-
-## 🎯 Goals
-
-<p align="center">
-  <span style="display:inline-block; margin:8px;">💪 Become a strong full-stack developer</span><br/>
-  <span style="display:inline-block; margin:8px;">🛠 Build clean & scalable applications</span><br/>
-  <span style="display:inline-block; margin:8px;">📈 Learn and improve every day</span>
 </p>
 
 ---
