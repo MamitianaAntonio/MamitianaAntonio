@@ -68,10 +68,10 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=854402184&limit=30" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=170424306" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=854402184&limit=30&image_size=auto&color_scheme=dark" width="655" height="auto">
-    <img alt="Active Contributors of MamitianaAntonio/MamitianaAntonio - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=854402184&limit=30&image_size=auto&color_scheme=light" width="655" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=170424306&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @MamitianaAntonio" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=170424306&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
 
