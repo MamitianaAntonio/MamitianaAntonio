@@ -8,7 +8,7 @@
 
 ---
 
-## 💻 My Skills
+## My Skills
 
 <p align="center">
   <!-- Frontend -->
@@ -66,7 +66,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=170424306" target="_blank" style="display: block" align="center">
   <picture>
@@ -77,7 +77,7 @@
 
 ---
 
-## 📬 Contact
+## Contact
 
 <p align="center">
   <span style="display:inline-block; margin:4px;">✉️ ratolojanaharyantonio.pro@gmail.com</span>  
