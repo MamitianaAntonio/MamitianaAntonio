@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=6000&color=4A90E2&center=true&vCenter=true&width=600&lines=Web+Developer;Passionate+Coder;HTML+%26+CSS+%26+JS;React+%7C+Node.js+%7C+SpringBoot;Always+Learning" alt="Typing Animation">
 </p>
 
+<p align="center">
+  <img src="assets/kirokaze-1.gif" alt="Pixel Art Desk" width="600"/>
+</p>
+
 ---
 
 ## My Skills
