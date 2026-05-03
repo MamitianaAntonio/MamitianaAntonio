@@ -1,9 +1,13 @@
 <div align="center"> 
   
-# 𝙰𝙽𝚃𝙾𝙽𝙸𝙾
+# ANTONIO RATOLOJANAHARY
   
 <div align="center">
-  <img src="assets/kirokaze-1.gif" alt="Pixel Art Desk" width="580" style="border-radius: 12px;"/>
+  <img 
+  src="assets/kirokaze-1.gif" 
+  alt="Pixel Art Desk" 
+  style="width: 100%; max-width: 100%; height: auto; border-radius: 12px;" 
+/>
 </div>
   
 *𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 · 𝚁𝚎𝚊𝚌𝚝 · 𝙽𝚎𝚡𝚝.𝚓𝚜 · 𝚂𝚙𝚛𝚒𝚗𝚐 𝙱𝚘𝚘𝚝*
@@ -12,7 +16,7 @@
  
 ---
  
-## 👋 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
  
 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚋𝚊𝚜𝚎𝚍 𝚒𝚗 𝙼𝚊𝚍𝚊𝚐𝚊𝚜𝚌𝚊𝚛, 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚌𝚕𝚎𝚊𝚗 𝚊𝚗𝚍 𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚊𝚗𝚝 𝚠𝚎𝚋 𝚊𝚙𝚙𝚜 𝚊𝚌𝚛𝚘𝚜𝚜 𝚝𝚑𝚎 𝚎𝚗𝚝𝚒𝚛𝚎 𝚜𝚝𝚊𝚌𝚔.
  
@@ -22,7 +26,7 @@
  
 ---
  
-## 🛠 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
+## 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -43,7 +47,7 @@
  
 ---
  
-## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
+## 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
  
 <div align="center">
  
@@ -66,7 +70,7 @@
  
 ---
  
-## 📬 𝙶𝚎𝚝 𝚒𝚗 𝚃𝚘𝚞𝚌𝚑
+## 𝙶𝚎𝚝 𝚒𝚗 𝚃𝚘𝚞𝚌𝚑
  
 <div align="center">
  
