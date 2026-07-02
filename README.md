@@ -2,67 +2,55 @@
 
 # ANTONIO RATOLOJANAHARY
 
-<img
-  src="assets/kirokaze-1.gif"
-  alt="Pixel Art Desk"
-  style="width: 100%; max-width: 100%; height: auto; border-radius: 12px;"
-/>
+<img src="assets/kirokaze-1.gif" alt="Pixel Art Desk" width="100%" style="border-radius: 12px;" />
 
-*𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 · 𝚁𝚎𝚊𝚌𝚝 · 𝙽𝚎𝚡𝚝.𝚓𝚜 · 𝚂𝚙𝚛𝚒𝚗𝚐 𝙱𝚘𝚘𝚝*
+**Full-Stack Developer · React · Next.js · Spring Boot**
 
 </div>
 
----
+<br>
 
-## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## About Me
 
-𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚋𝚊𝚜𝚎𝚍 𝚒𝚗 𝙼𝚊𝚍𝚊𝚐𝚊𝚜𝚌𝚊𝚛, 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚌𝚕𝚎𝚊𝚗 𝚊𝚗𝚍 𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚊𝚗𝚝 𝚠𝚎𝚋 𝚊𝚙𝚙𝚜 𝚊𝚌𝚛𝚘𝚜𝚜 𝚝𝚑𝚎 𝚎𝚗𝚝𝚒𝚛𝚎 𝚜𝚝𝚊𝚌𝚔.
+Full-stack developer based in Madagascar, building clean and performant web apps across the entire stack.
 
-- 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚁𝚎𝚊𝚌𝚝, 𝙽𝚎𝚡𝚝.𝚓𝚜, 𝚊𝚗𝚍 𝚂𝚙𝚛𝚒𝚗𝚐 𝙱𝚘𝚘𝚝
-- 𝙰𝚕𝚠𝚊𝚢𝚜 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚗𝚎𝚠
-- 𝙷𝚊𝚙𝚙𝚢 𝚝𝚘 𝚌𝚑𝚊𝚝 𝚊𝚋𝚘𝚞𝚝 𝚠𝚎𝚋 𝚍𝚎𝚟 𝚘𝚛 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎
+- 🔧 Working with React, Next.js, and Spring Boot
+- 📚 Always learning something new
+- 💬 Happy to chat about web dev or open source
 
----
+<br>
 
-## 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
+## Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,java,spring,nodejs,python,lua,docker,git,github,neovim&theme=dark" />
-
 </div>
 
----
+<br>
 
-## 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
+## GitHub Stats
 
 <div align="center">
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=170424306" target="_blank">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=170424306&image_size=auto&color_scheme=dark"
-      width="771" height="auto"
-    />
-    <img
-      alt="Dashboard Stats for @MamitianaAntonio"
-      src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=170424306&image_size=auto&color_scheme=light"
-      width="771" height="auto"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=170424306&image_size=auto&color_scheme=dark" width="771" height="auto" />
+    <img alt="Dashboard Stats for @MamitianaAntonio" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=170424306&image_size=auto&color_scheme=light" width="771" height="auto" />
   </picture>
 </a>
 
 </div>
 
----
+<br>
 
-## 𝙶𝚎𝚝 𝚒𝚗 𝚃𝚘𝚞𝚌𝚑
+## Get in Touch
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ratolojanaharyantonio.pro@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MamitianaAntonio)
+
+</div>
 
 </div>
 
